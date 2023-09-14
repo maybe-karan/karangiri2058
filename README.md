@@ -1,4 +1,4 @@
-[![MasterHead](https://share.creavite.co/04EYeoOPk17J0Wyb.gif)](https://)
+![Your Alt Text](https://share.creavite.co/04EYeoOPk17J0Wyb.gif)
 
 <h1 align="center">Hi 👋, I'm Karan Giri</h1>
 <h3 align="center">A passionate Discord bot developer from Nepal</h3>
