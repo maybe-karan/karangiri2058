@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karangiri2058&label=Profile%20views&color=0e75b6&style=flat" alt="karangiri2058" /> </p>
 
-- 🔭 I’m currently working on **Discord Bot down-time notifier**
+- 🔭 I’m currently working on [Byte Development](https://discord.gg/NSDumgCpM7)
+
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **Discord bot**
+
+- 📫 How to reach me **karangiri2066@gmail.com**
+
+- ⚡ Fun fact **The term "bug" to describe a programming error has a historical origin. In 1947, Grace Hopper, a computer scientist, and naval officer, found a moth inside a relay of the Harvard Mark II computer. She removed the moth and taped it into her logbook, noting, "First actual case of bug being found." This term stuck, and to this day, we refer to programming errors as "bugs."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
