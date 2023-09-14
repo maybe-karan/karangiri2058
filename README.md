@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karangiri2058&label=Profile%20views&color=0e75b6&style=flat" alt="karangiri2058" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karangiri2058" alt="karangiri2058" /></a> </p>
+
 - 🔭 I’m currently working on **Discord Bot down-time notifier**
+
+- 💬 Ask me about **Discord bot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
